@@ -5,7 +5,8 @@ Designed for educators or students to input scores and instantly view summaries 
 
 🖼️ Preview
 
-![Image Alt] (https://github.com/Nikhitha999-nikki/Student_Grade_Tracker/blob/979e1bfeb8ab4058a03c3103cf66afb265e238f6/Student%20Grade%20Tracker%207_28_2025%209_24_14%20PM.png)
+![Image Alt](https://github.com/Nikhitha999-nikki/Student_Grade_Tracker/blob/d9bceadfd2d4d36e862f970a7f03a73b1fe39936/Student%20Grade%20Tracker%207_28_2025%209_24_14%20PM.png)
+
 
 ✨ Features
 🧾 Input student data: Name + list of grades (comma-separated).
@@ -71,5 +72,5 @@ javac StudentGradeTracker.java
 java StudentGradeTracker
 
 
-![Image Alt] (https://github.com/Nikhitha999-nikki/Student_Grade_Tracker/blob/979e1bfeb8ab4058a03c3103cf66afb265e238f6/Student%20Grade%20Tracker%207_28_2025%209_25_18%20PM.png)
+![Image Alt](https://github.com/Nikhitha999-nikki/Student_Grade_Tracker/blob/979e1bfeb8ab4058a03c3103cf66afb265e238f6/Student%20Grade%20Tracker%207_28_2025%209_25_18%20PM.png)
 

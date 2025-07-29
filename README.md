@@ -9,9 +9,14 @@ Designed for educators or students to input scores and instantly view summaries 
 
 
 ✨ Features
+
+
 🧾 Input student data: Name + list of grades (comma-separated).
 
+
+
 📈 Live performance summary:
+
 
 Per-student: Average, Highest, Lowest
 
@@ -54,11 +59,17 @@ Layout Managers	UI alignment
 🗂️ Project Structure
 
 📁 StudentGradeTracker
+
  ┣ 📜 Main.java
+ 
  ┣ 📜 Student.java
+ 
  ┣ 📜 StudentGradeTracker.java
+ 
  ┣ 📁 screenshots
+ 
  ┃ ┗ student_grade_tracker.png
+ 
  ┗ 📜 README.md
 
 
